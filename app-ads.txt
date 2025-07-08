@@ -1,1 +1,2 @@
+# app-ads.txt GERBANGTV
 google.com, pub-6149565316658170, DIRECT, f08c47fec0942fa0
